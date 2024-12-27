@@ -45,8 +45,8 @@ console.log(filtered);
 
 ## for vs. for...each loops
 
-When to use which all depends on context, if you're just trying to iterate over all of a collection's items, the for...each is fine. 
+When to use which, all depends on context. If you're just trying to iterate over all of a collection's items, the for...each is fine. 
 
-for loops are useful if you're not necessarily iterating over a collection, but rather are just trying to perform a piece of code a bunch of times, like drawing a bunch of circles on a canvas. 
+for loops are helpful if you're not necessarily iterating over a collection, but rather are just trying to perform a piece of code a bunch of times, like drawing a bunch of circles on a canvas. 
 
 If you have a collection but have certain things you need to do to a specific item, a for loop would be better suited over a for...each since you can specify which iteration will have something done to its item.
